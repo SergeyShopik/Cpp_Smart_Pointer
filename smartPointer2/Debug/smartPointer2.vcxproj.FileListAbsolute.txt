@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\smartPointer2\Debug\smartPointer2.exe
+C:\Users\HP\source\repos\smartPointer2\Debug\smartPointer2.pdb
